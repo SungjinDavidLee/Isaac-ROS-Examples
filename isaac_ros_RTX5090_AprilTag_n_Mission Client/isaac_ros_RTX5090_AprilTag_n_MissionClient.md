@@ -266,7 +266,8 @@ sequenceDiagram
 
 ## 4.2 Loaded vs Clean Benchmark
 
-![Uploading benchmark_loaded_vs_clean.png…]()
+<img width="1448" height="1086" alt="benchmark_loaded_vs_clean" src="https://github.com/user-attachments/assets/cfd06502-140d-40bc-92f6-9decd775b870" />
+
 
 | Metric | Loaded workstation | Clean benchmark |
 |---|---:|---:|
