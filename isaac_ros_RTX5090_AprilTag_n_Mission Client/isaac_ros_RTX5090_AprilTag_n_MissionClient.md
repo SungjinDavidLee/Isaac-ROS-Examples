@@ -266,7 +266,7 @@ sequenceDiagram
 
 ## 4.2 Loaded vs Clean Benchmark
 
-![Loaded vs clean benchmark](assets/benchmark_loaded_vs_clean.png)
+![Uploading benchmark_loaded_vs_clean.png…]()
 
 | Metric | Loaded workstation | Clean benchmark |
 |---|---:|---:|
