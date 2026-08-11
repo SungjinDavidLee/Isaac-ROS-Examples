@@ -248,9 +248,8 @@ sequenceDiagram
 
 전체 실행 녹화:
 
-<img width="1448" height="1086" alt="rviz_execution_demo" src="https://github.com/user-attachments/assets/7e3cbc3b-029c-4f99-bcbc-33dbc9b3687d" />
-
-<img width="1448" height="1086" alt="mission_execution_demo" src="https://github.com/user-attachments/assets/dcdbbc50-0f2d-4764-99b8-5ab53577452e" />
+<img width="400" height="213" alt="rviz_execution_demo" src="https://github.com/user-attachments/assets/e3778bca-8f64-4472-9687-c71e7b253bcf" />
+<img width="400" height="213" alt="mission_execution_demo" src="https://github.com/user-attachments/assets/a859c175-e0a8-4cc9-94cd-5a17ac91581c" />
 
 ---
 
