@@ -1,0 +1,3 @@
+condition,mean_frame_rate,mean_playback_rate,idle_gpu,idle_cpu,peak_prediction
+Loaded workstation,264.922,268.331,38.0,9.208,268.125
+Clean benchmark,433.187,443.39,0.0,0.344,443.281

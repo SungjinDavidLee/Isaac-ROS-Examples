@@ -1,0 +1,153 @@
+
++--------------------------------------------------------------------------------------------+
+|                              Isaac ROS AprilTagNode Benchmark                              |
+|                                        Final Report                                        |
++--------------------------------------------------------------------------------------------+
+| Delta between First & Last Received Frames (ms) : 4997.172                                 |
+| Mean Playback Frame Rate (fps) : 443.390                                                   |
+| Mean Frame Rate (fps) : 433.187                                                            |
+| # of Missed Frames : 51.333                                                                |
+| # of Frames Sent : 2216.000                                                                |
+| First Sent to First Received Latency (ms) : 2.513                                          |
+| Last Sent to Last Received Latency (ms) : 1.870                                            |
+| Max. Frame-to-Frame Jitter (ms) : 8.609                                                    |
+| Min. Frame-to-Frame Jitter (ms) : 0.000                                                    |
+| Mean Frame-to-Frame Jitter (ms) : 0.508                                                    |
+| Frame-to-Frame Jitter Std. Deviation (ms) : 0.522                                          |
+| Baseline Overall CPU Utilization (%) : 1.910                                               |
+| Max. Overall CPU Utilization (%) : 6.641                                                   |
+| Min. Overall CPU Utilization (%) : 0.000                                                   |
+| Mean Overall CPU Utilization (%) : 0.544                                                   |
+| Std Dev Overall CPU Utilization (%) : 0.740                                                |
+| Baseline Device Utilization (%) : 0.000                                                    |
+| Max. Device Utilization (%) : 37.000                                                       |
+| Min. Device Utilization (%) : 0.000                                                        |
+| Mean Device Utilization (%) : 17.019                                                       |
+| SD. Device Utilization (%) : 17.804                                                        |
+| Baseline Device Memory Utilization (%) : 3.530                                             |
+| Max. Device Memory Utilization (%) : 3.530                                                 |
+| Min. Device Memory Utilization (%) : 3.530                                                 |
+| Mean Device Memory Utilization (%) : 3.530                                                 |
+| SD. Device Memory Utilization (%) : 0.000                                                  |
++--------------------------------------------------------------------------------------------+
+| [10.0fps] Delta between First & Last Received Frames (ms) : 4899.593                       |
+| [10.0fps] Mean Playback Frame Rate (fps) : 10.204                                          |
+| [10.0fps] First Sent to First Received Latency (ms) : 2.333                                |
+| [10.0fps] Last Sent to Last Received Latency (ms) : 1.977                                  |
+| [10.0fps] # of Missed Frames : 0                                                           |
+| [10.0fps] # of Frames Sent : 50                                                            |
+| [10.0fps] Mean Frame Rate (fps) : 10.205                                                   |
+| [10.0fps] Max. Frame-to-Frame Jitter (ms) : 3.099                                          |
+| [10.0fps] Min. Frame-to-Frame Jitter (ms) : 0.057                                          |
+| [10.0fps] Mean Frame-to-Frame Jitter (ms) : 0.591                                          |
+| [10.0fps] Frame-to-Frame Jitter Std. Deviation (ms) : 0.590                                |
+| [10.0fps] Baseline Overall CPU Utilization (%) : 1.562                                     |
+| [10.0fps] Mean Overall CPU Utilization (%) : 0.192                                         |
+| [10.0fps] Max. Overall CPU Utilization (%) : 2.344                                         |
+| [10.0fps] Min. Overall CPU Utilization (%) : 0.000                                         |
+| [10.0fps] Std Dev Overall CPU Utilization (%) : 0.408                                      |
+| [10.0fps] Baseline Device Utilization (%) : 1.000                                          |
+| [10.0fps] Mean Device Utilization (%) : 0.562                                              |
+| [10.0fps] SD. Device Utilization (%) : 0.496                                               |
+| [10.0fps] Max. Device Utilization (%) : 1.000                                              |
+| [10.0fps] Min. Device Utilization (%) : 0.000                                              |
+| [10.0fps] Baseline Device Memory Utilization (%) : 3.530                                   |
+| [10.0fps] Mean Device Memory Utilization (%) : 3.530                                       |
+| [10.0fps] SD. Device Memory Utilization (%) : 0.000                                        |
+| [10.0fps] Max. Device Memory Utilization (%) : 3.530                                       |
+| [10.0fps] Min. Device Memory Utilization (%) : 3.530                                       |
++--------------------------------------------------------------------------------------------+
+| [60.0fps] Delta between First & Last Received Frames (ms) : 4983.060                       |
+| [60.0fps] Mean Playback Frame Rate (fps) : 60.204                                          |
+| [60.0fps] First Sent to First Received Latency (ms) : 1.700                                |
+| [60.0fps] Last Sent to Last Received Latency (ms) : 1.677                                  |
+| [60.0fps] # of Missed Frames : 0                                                           |
+| [60.0fps] # of Frames Sent : 300                                                           |
+| [60.0fps] Mean Frame Rate (fps) : 60.204                                                   |
+| [60.0fps] Max. Frame-to-Frame Jitter (ms) : 5.068                                          |
+| [60.0fps] Min. Frame-to-Frame Jitter (ms) : 0.004                                          |
+| [60.0fps] Mean Frame-to-Frame Jitter (ms) : 0.586                                          |
+| [60.0fps] Frame-to-Frame Jitter Std. Deviation (ms) : 0.546                                |
+| [60.0fps] Baseline Overall CPU Utilization (%) : 0.000                                     |
+| [60.0fps] Mean Overall CPU Utilization (%) : 0.161                                         |
+| [60.0fps] Max. Overall CPU Utilization (%) : 2.213                                         |
+| [60.0fps] Min. Overall CPU Utilization (%) : 0.000                                         |
+| [60.0fps] Std Dev Overall CPU Utilization (%) : 0.363                                      |
+| [60.0fps] Baseline Device Utilization (%) : 0.000                                          |
+| [60.0fps] Mean Device Utilization (%) : 2.481                                              |
+| [60.0fps] SD. Device Utilization (%) : 2.500                                               |
+| [60.0fps] Max. Device Utilization (%) : 5.000                                              |
+| [60.0fps] Min. Device Utilization (%) : 0.000                                              |
+| [60.0fps] Baseline Device Memory Utilization (%) : 3.530                                   |
+| [60.0fps] Mean Device Memory Utilization (%) : 3.530                                       |
+| [60.0fps] SD. Device Memory Utilization (%) : 0.000                                        |
+| [60.0fps] Max. Device Memory Utilization (%) : 3.530                                       |
+| [60.0fps] Min. Device Memory Utilization (%) : 3.530                                       |
++--------------------------------------------------------------------------------------------+
+| [30.0fps] Delta between First & Last Received Frames (ms) : 4966.275                       |
+| [30.0fps] Mean Playback Frame Rate (fps) : 30.202                                          |
+| [30.0fps] First Sent to First Received Latency (ms) : 1.774                                |
+| [30.0fps] Last Sent to Last Received Latency (ms) : 1.451                                  |
+| [30.0fps] # of Missed Frames : 0                                                           |
+| [30.0fps] # of Frames Sent : 150                                                           |
+| [30.0fps] Mean Frame Rate (fps) : 30.204                                                   |
+| [30.0fps] Max. Frame-to-Frame Jitter (ms) : 2.438                                          |
+| [30.0fps] Min. Frame-to-Frame Jitter (ms) : 0.019                                          |
+| [30.0fps] Mean Frame-to-Frame Jitter (ms) : 0.563                                          |
+| [30.0fps] Frame-to-Frame Jitter Std. Deviation (ms) : 0.462                                |
+| [30.0fps] Baseline Overall CPU Utilization (%) : 0.391                                     |
+| [30.0fps] Mean Overall CPU Utilization (%) : 0.146                                         |
+| [30.0fps] Max. Overall CPU Utilization (%) : 4.688                                         |
+| [30.0fps] Min. Overall CPU Utilization (%) : 0.000                                         |
+| [30.0fps] Std Dev Overall CPU Utilization (%) : 0.419                                      |
+| [30.0fps] Baseline Device Utilization (%) : 0.000                                          |
+| [30.0fps] Mean Device Utilization (%) : 1.000                                              |
+| [30.0fps] SD. Device Utilization (%) : 1.000                                               |
+| [30.0fps] Max. Device Utilization (%) : 2.000                                              |
+| [30.0fps] Min. Device Utilization (%) : 0.000                                              |
+| [30.0fps] Baseline Device Memory Utilization (%) : 3.530                                   |
+| [30.0fps] Mean Device Memory Utilization (%) : 3.530                                       |
+| [30.0fps] SD. Device Memory Utilization (%) : 0.000                                        |
+| [30.0fps] Max. Device Memory Utilization (%) : 3.530                                       |
+| [30.0fps] Min. Device Memory Utilization (%) : 3.530                                       |
++--------------------------------------------------------------------------------------------+
+| [custom] data_resolution : HD (1280,720)                                                   |
++--------------------------------------------------------------------------------------------+
+| [metadata] Test Name : Isaac ROS AprilTagNode Benchmark                                    |
+| [metadata] Test File Path : /opt/ros/jazzy/share/isaac_ros_apriltag_benchmark/scripts/isaac_ros_apriltag_node.py |
+| [metadata] Test Datetime : 2026-08-11T10:40:44Z                                            |
+| [metadata] Device Hostname : workstation                                                   |
+| [metadata] Device Architecture : x86_64                                                    |
+| [metadata] Device OS : Linux 6.14.0-37-generic #37~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Nov 20 10:25:38 UTC 2 |
+| [metadata] Idle System CPU Util. (%) : 0.344                                               |
+| [metadata] Idle GPU Util. (%) : 0.000                                                      |
+| [metadata] Benchmark Mode : 1                                                              |
+| [metadata] Peak Throughput Prediction (Hz) : 443.281                                       |
+| [metadata] Input Data Path : /workspaces/isaac_ros-dev/src/ros2_benchmark/assets/datasets/r2b_dataset/r2b_storage |
+| [metadata] Input Data Size (bytes) : 3087908864                                            |
+| [metadata] Input Data Hash : 5e8f11201fe10dbac7307a8628553e94                              |
+| [metadata] Input Data Start Time (s) : 3.000                                               |
+| [metadata] Input Data End Time (s) : 3.500                                                 |
++--------------------------------------------------------------------------------------------+
+
+
+[INFO] [1786445038.012106646] [r2b.Controller.Looping]: Exported benchmark report to /tmp/r2b-log-20260811-104044.json
+ok
+
+----------------------------------------------------------------------
+Ran 1 test in 177.379s
+
+OK
+[INFO] [component_container_mt-1]: sending signal 'SIGINT' to process[component_container_mt-1]
+[component_container_mt-1] [INFO] [1786445038.305422066] [rclcpp]: signal_handler(SIGINT/SIGTERM)
+[ERROR] [component_container_mt-1]: process[component_container_mt-1] failed to terminate '5' seconds after receiving 'SIGINT', escalating to 'SIGTERM'
+[INFO] [component_container_mt-1]: sending signal 'SIGTERM' to process[component_container_mt-1]
+[component_container_mt-1] [INFO] [1786445043.310146614] [rclcpp]: signal_handler(SIGINT/SIGTERM)
+[ERROR] [component_container_mt-1]: process[component_container_mt-1] failed to terminate '10.0' seconds after receiving 'SIGTERM', escalating to 'SIGKILL'
+[INFO] [component_container_mt-1]: sending signal 'SIGKILL' to process[component_container_mt-1]
+[ERROR] [component_container_mt-1]: process has died [pid 5078, exit code -9, cmd '/opt/ros/jazzy/lib/rclcpp_components/component_container_mt --ros-args -r __node:=container -r __ns:=/r2b'].
+
+----------------------------------------------------------------------
+Ran 0 tests in 0.000s
+
+NO TESTS RAN

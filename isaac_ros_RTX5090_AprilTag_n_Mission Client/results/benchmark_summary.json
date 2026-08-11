@@ -1,0 +1,40 @@
+{
+  "loaded_workstation": {
+    "mean_frame_rate": 264.922,
+    "mean_playback_rate": 268.331,
+    "idle_gpu": 38.0,
+    "idle_cpu": 9.208,
+    "peak_prediction": 268.125
+  },
+  "clean_benchmark": {
+    "mean_frame_rate": 433.187,
+    "mean_playback_rate": 443.39,
+    "idle_gpu": 0.0,
+    "idle_cpu": 0.344,
+    "peak_prediction": 443.281
+  },
+  "clean_realtime_tests": [
+    {
+      "input_fps": 10.0,
+      "output_fps": 10.205,
+      "missed_frames": 0.0,
+      "first_latency_ms": 2.333,
+      "last_latency_ms": 1.977
+    },
+    {
+      "input_fps": 30.0,
+      "output_fps": 30.204,
+      "missed_frames": 0.0,
+      "first_latency_ms": 1.774,
+      "last_latency_ms": 1.451
+    },
+    {
+      "input_fps": 60.0,
+      "output_fps": 60.204,
+      "missed_frames": 0.0,
+      "first_latency_ms": 1.7,
+      "last_latency_ms": 1.677
+    }
+  ],
+  "resolution": "1280x720"
+}
