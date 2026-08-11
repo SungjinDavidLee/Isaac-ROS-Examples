@@ -250,8 +250,6 @@ sequenceDiagram
 
 [mission_execution_demo.webm](https://github.com/user-attachments/assets/b7535387-12b8-4b49-8a6b-73bb93a911ad)
 
-- [RViz execution demo](assets/rviz_execution_demo.webm)
-
 ---
 
 # 4. AprilTag Performance Evaluation
