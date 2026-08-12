@@ -250,10 +250,7 @@ sequenceDiagram
 
 - [Mission execution demo](assets/mission_execution_demo.webm)
 - [RViz execution demo](assets/rviz_execution_demo.webm)
-- <img width="400" height="213" alt="mission_execution_demo" src="https://github.com/user-attachments/assets/a6debac2-c7f9-4c77-93d3-9febb2653628" />
-
-
-- <img width="400" height="213" alt="rviz_execution_demo" src="https://github.com/user-attachments/assets/754de012-f2d2-4b21-af72-195402bbe50a" />
+- <img width="400" height="213" alt="mission_execution_demo" src="https://github.com/user-attachments/assets/a6debac2-c7f9-4c77-93d3-9febb2653628" />- <img width="400" height="213" alt="rviz_execution_demo" src="https://github.com/user-attachments/assets/754de012-f2d2-4b21-af72-195402bbe50a" />
 
 ---
 
